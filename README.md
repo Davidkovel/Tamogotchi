@@ -1,9 +1,12 @@
-# Tamagotchi in Python using MySQL Database
+# Simple Tamagotchi and Telegram Tamagotchi Bot with MySQL
 
-This project is an implementation of the Tamagotchi game using the Python programming language and the MySQL database management system. 
-Tamagotchi is a virtual pet that requires care, feeding, playing, and monitoring of its well-being.
+This README covers two distinct projects that I've developed using Python and MySQL: a Simple Tamagotchi implementation and a Telegram Tamagotchi Bot implementation. These projects involve creating virtual pet experiences, each with their unique characteristics
 
-# Project Description
+### Simple Tamagotchi
 
-The aim of this project is to create an interactive virtual Tamagotchi game where users can create their own personal pets, interact with them, take care of them, and monitor their status. 
-MySQL is utilized to store data about the pets and their states.
+The Simple Tamagotchi project is a straightforward console-based game written in Python. It enables users to interact with a virtual pet by feeding, playing, and keeping an eye on its status. I utilized a MySQL database to persistently store pet data
+
+### Telegram Tamagotchi Bot
+
+The Telegram Tamagotchi Bot project takes the Tamagotchi experience to the Telegram platform. This bot allows users to interact with their virtual pet directly within the Telegram app. The pet can be cared for through specific bot commands.
+
