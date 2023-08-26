@@ -1,4 +1,4 @@
-Tamagotchi in Python using MySQL Database
+# Tamagotchi in Python using MySQL Database
 
 This project is an implementation of the Tamagotchi game using the Python programming language and the MySQL database management system. 
 Tamagotchi is a virtual pet that requires care, feeding, playing, and monitoring of its well-being.
